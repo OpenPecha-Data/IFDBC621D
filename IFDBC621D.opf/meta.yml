@@ -1,0 +1,79 @@
+id: IFDBC621D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:18:39.755324'
+last_modified: '2022-06-17T11:18:39.755330'
+parser: null
+source_metadata:
+  title: Bodhicitta Series
+  language: pt
+  description: Texts on the subject of bodhicitta (byang chub sems), which (on the
+    relative level, at least) is the compassionate wish to attain enlightenment for
+    the sake of all living beings—and has been variously translated into English as
+    'thought of enlightenment', 'awakening-mind', 'spirit of awakening', etc.
+  volume:
+    fEA20:
+      title: Advice for Tenzin Jamchen
+      base_file: fEA20.txt
+      order: 1
+      parent: Advice
+    f1CAB:
+      title: Bodhicitta Aspiration
+      base_file: f1CAB.txt
+      order: 2
+      parent: Aspirations
+    f4E9C:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      base_file: f4E9C.txt
+      order: 3
+      parent: Aspirations
+    f99A1:
+      title: An Extensive Commentary on the Four Immeasurables
+      base_file: f99A1.txt
+      order: 4
+      parent: Commentaries
+    f4B11:
+      title: A Brief Commentary on the Refuge & Bodhichitta Prayer known as Sangyé
+        Chö Tsok Ma
+      base_file: f4B11.txt
+      order: 5
+      parent: Commentaries
+    f2913:
+      title: An Essential Instruction on Refuge and Bodhichitta
+      base_file: f2913.txt
+      order: 6
+      parent: Commentaries
+    f05D1:
+      title: How Our Supreme Teacher Generated Bodhicitta and Other Topics
+      base_file: f05D1.txt
+      order: 7
+      parent: History
+    fC1B6:
+      title: Daily Confession (from the Vajrapañjara Tantra)
+      base_file: fC1B6.txt
+      order: 8
+      parent: Practices
+    f54BD:
+      title: The Ritual of the Bodhisattva Vow According to the Tradition of Patrul
+        Rinpoche
+      base_file: f54BD.txt
+      order: 9
+      parent: Practices
+    fAF00:
+      title: Verses of Refuge and Bodhicitta
+      base_file: fAF00.txt
+      order: 10
+      parent: Practices
+    f9624:
+      title: The Three Noble Principles
+      base_file: f9624.txt
+      order: 11
+      parent: Three Noble Principles
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
